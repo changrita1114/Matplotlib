@@ -1,7 +1,10 @@
-# Matplotlib
-> Three conclusions:
-> (1) 249 mice were included in the current study. According to the summary statistics, the mean of the tumor volume was smallest when the mice were treated with Ramicane.
-> (2) Accroding to the box plot, there was no outlier of the averaged tumor volume in four different drug regimens.
-> (3) When the mice were treated with Capomulin, the weight and the averaged tumor volume were highly correlated, r = .49. In regression analysis, the weight could be a predictive factor for the tumor volumes. The higher the weight, the higher the averaged tumor volume could be predicted according to the formula.
-# Disclaimer
-> The resources of this master branch are only for educational purposes. All reserved rights belong to UCSD Data Science and Visualization Boot Camp.
+## Matplotlib Project
+### Background and Objectives
+While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+
+### Jupyter notebook link [here](https://github.com/changrita1114/Matplotlib/blob/master/Pymaceuticals.ipynb) 
+### More visualization availbale [here](https://changrita1114.github.io/Pymaceuticals/) 
+
+### Disclaimer
+The resources of this master branch are only for educational purposes. All reserved rights belong to UCSD Data Science and Visualization Boot Camp.
