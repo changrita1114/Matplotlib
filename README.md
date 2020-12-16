@@ -4,7 +4,9 @@ While your data companions rushed off to jobs in finance and government, you rem
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ### Jupyter notebook link [here](https://github.com/changrita1114/Matplotlib/blob/master/Pymaceuticals.ipynb) 
-### More visualization availbale [here](https://changrita1114.github.io/Pymaceuticals/) 
+### More visualization below
+Please click the figure to enter the visualiztion site.
+[![img](https://github.com/changrita1114/Pymaceuticals/blob/main/WebVisualizations/assets/landing_page.png)](https://changrita1114.github.io/Pymaceuticals/)
 
 ### Disclaimer
 The resources of this master branch are only for educational purposes. All reserved rights belong to UCSD Data Science and Visualization Boot Camp.
